@@ -1,0 +1,54 @@
+.main{
+  background-image: url("https://wallpapercave.com/wp/qQa5Pd7.jpg");
+  background-repeat: no-repeat;
+  
+  color: white;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  background-size: 100% 100%;
+}
+.location-outer{
+  text-align: center;
+  padding-top: 5vh;
+  
+   
+}
+.location-inner{
+  border-radius: 5vw;
+  width: 40vw;
+  
+  text-align: center; 
+}
+
+.buttonsearch{
+  border-radius: 3vw;
+  text-align: center;
+  background-color: aquamarine;
+}
+.msg{
+  writing-mode: vertical-lr;
+  display: inline;
+  float: right;
+  font-size: 5vw;
+}
+.city{
+  padding-top: 10vw;
+  font-size: 10vh;
+}
+.temperature{
+  font-size:20vw;
+  font-weight: bold;
+  display: inline-block;
+}
+.info{
+  padding-top:5vw;
+  padding-bottom: 5vw;
+  text-align: center;
+}
+.info-inner{
+  font-size: 5vh;
+  font-weight: bold;
+  display: inline-block;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
